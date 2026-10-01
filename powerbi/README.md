@@ -100,7 +100,7 @@ Judit Giravent
 
 LinkedIn: linkedin.com/in/judit-giravent-27b167156
 
-GitHub: @jdthgp27
+GitHub: @everest9957
 
 📜 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.

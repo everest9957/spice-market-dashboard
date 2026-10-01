@@ -109,7 +109,7 @@ spice-market-dashboard/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/jdthgp27/spice-market-dashboard.git
+git clone https://github.com/everest9957/spice-market-dashboard.git
 cd spice-market-dashboard
 ```
 
@@ -184,9 +184,9 @@ El dashboard permite:
 
 **Judit Giravent Pineda**
 
-- GitHub: [@jdthgp27](https://github.com/jdthgp27)
+- GitHub: [@everest9957](https://github.com/everest9957)
 - LinkedIn: [judit-giravent-27b167156](https://www.linkedin.com/in/judit-giravent-27b167156/)
-- Email: jdthgp27@gmail.com
+- Email: everest9957@gmail.com
 
 ---
 
